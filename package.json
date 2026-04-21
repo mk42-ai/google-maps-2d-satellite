@@ -1,0 +1,11 @@
+{
+  "name": "google-maps-2d-satellite",
+  "version": "1.0.0",
+  "main": "google-maps-2d-satellite.js",
+  "scripts": {
+    "start": "node google-maps-2d-satellite.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
